@@ -1,0 +1,12 @@
+G:\.net core practice\practice\test10\test10\bin\Release\netcoreapp2.0\test10.deps.json
+G:\.net core practice\practice\test10\test10\bin\Release\netcoreapp2.0\test10.runtimeconfig.json
+G:\.net core practice\practice\test10\test10\bin\Release\netcoreapp2.0\test10.runtimeconfig.dev.json
+G:\.net core practice\practice\test10\test10\bin\Release\netcoreapp2.0\test10.dll
+G:\.net core practice\practice\test10\test10\bin\Release\netcoreapp2.0\test10.pdb
+G:\.net core practice\practice\test10\test10\obj\Release\netcoreapp2.0\test10.csproj.CoreCompileInputs.cache
+G:\.net core practice\practice\test10\test10\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+G:\.net core practice\practice\test10\test10\obj\Release\netcoreapp2.0\test10.AssemblyInfoInputs.cache
+G:\.net core practice\practice\test10\test10\obj\Release\netcoreapp2.0\test10.AssemblyInfo.cs
+G:\.net core practice\practice\test10\test10\obj\Release\netcoreapp2.0\test10.dll
+G:\.net core practice\practice\test10\test10\obj\Release\netcoreapp2.0\test10.pdb
+G:\.net core practice\practice\test10\test10\obj\Release\netcoreapp2.0\test10.csprojAssemblyReference.cache
